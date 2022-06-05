@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @panoskaramp
+- 👋 Hi, I’m Panos Karampournitois @panoskaramp
 - 👀 I’m interested in Data Science projects
 - 🌱 I’m currently learning about ML Deployment, and Bayessian A/B Testing
 - 📫 Reach me at karamp.pan@gmail.com
